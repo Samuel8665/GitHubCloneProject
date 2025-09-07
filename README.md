@@ -1,6 +1,2 @@
-This is the description of my repo
- HEAD
-Modification in main branch
-
-Modification in feature-greeeting branch.
- 
+README file the objective of this task
+Modification in feature-greeting branch. 
